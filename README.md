@@ -1,1 +1,1 @@
-# hotFix
+# 这是一个手写热修复的demo，博客详解：https://blog.csdn.net/Du_ZiLin/article/details/89533804
